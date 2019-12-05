@@ -12,7 +12,7 @@ these are the commands you need to run :-
 
 In case adb is not there Just Install from here 
 
-Install homebrew-
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-Install adb-
-brew cask install android-platform-tools
+    Install homebrew-
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    Install adb-
+    brew cask install android-platform-tools
