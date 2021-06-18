@@ -1,6 +1,10 @@
 # Debug-over-WIFI
 how to debug your code over wifi on your android device (without USB)
 
+I wrote a blog on it explaining how you can do this.
+
+
+<a href="https://medium.com/native-mobile-bits/debug-your-apps-without-cable-99452daf8755">Check blog here. :) </a> 
 
 these are the commands you need to run :-
 
